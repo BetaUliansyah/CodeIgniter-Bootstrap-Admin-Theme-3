@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### [CodeIgniter Sunrise](https://github.com/sjlu/CodeIgniter-Sunrise) has a LESS and JS compiler for better dependency management.
 
 ## Introduction
@@ -30,3 +31,7 @@ MIT with [CodeIgniter Amendments](http://codeigniter.com/user_guide/license.html
 ## Other
 
 If you're looking for a LESS and/or JS compilier, try out another flavor like [CodeIgniter Sunrise](https://github.com/sjlu/CodeIgniter-Sunrise).
+=======
+CodeIgniter-Bootstrap-Admin-Theme-3
+===================================
+>>>>>>> 465d89581353f8c56f1349d1b2079ceae99e0bdc
