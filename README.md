@@ -1,6 +1,9 @@
 CodeIgniter-Bootstrap-Admin-Theme-3
 ===================================
 
+## Working Demo
+Feel our smooth ready-to-built-into-something-new abse framework: [http://lab.uliansyah.or.id/CodeIgniter-Bootstrap-Admin-Theme-3/](http://lab.uliansyah.or.id/CodeIgniter-Bootstrap-Admin-Theme-3/)
+
 ## Introduction
 
 CodeIgniter Bootstrap Admin Theme 3 combines [Bootstrap Admin Theme 3](https://github.com/VinceG/Bootstrap-Admin-Theme-3) by VinceG and [CodeIgniter-Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap) by Steven Lu into one new project. Hopefully, it can help you to get into your development phase faster. 
